@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- 🧍 My name is Tim Johnson
 - 😄 Pronouns: he/him/his
 
 ## 📫 Connect with me
