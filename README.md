@@ -1,6 +1,23 @@
 ### Hi there 👋
 - 🧍 My name is Tim Johnson
 - 😄 Pronouns: he/him/his
+- 🔭 My deepest technical knowledge is in C#
+- 🧱 I feel comfortable attempting work in any domain (e.g. - Backend, Frontend, Data Storage, CI/CD, Cloud Infrastructure, Hardware)
+- 🌱 I find it more natural to pursue deep knowledge
+- 👯 In my unstructured time I am most likely to take on medium (up to 1 week) to large (multiple weeks) projects
+- 🤔 In 1 year I want to have expanded the **width** of awareness in:  
+  - [] Languages
+    - [] GoLang
+    - [] Scala
+    - [] Kotlin
+  - [] UI technologies
+    - [] MAUI
+  - [] data science and AI/ML
+  - [] High level understanding of Site Reliability Engineering
+- 🤔 In 1 year I want to have expanded the **depth** of awareness in:
+  - [] React ecosystem (Redux, architecture, best practices)
+  - [] Python (packaging, best practices)
+- 🧭 In 5 years, I want to have expanded my depth and width of understanding in AI/ML and full stack development using multiple technologies such that I am able to mentor others
 
 ## 📫 Connect with me
 
