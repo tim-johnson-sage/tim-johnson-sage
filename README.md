@@ -8,7 +8,7 @@ During my work hours I am most easily contacted via:
 
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
-![Teams](https://img.shields.io/badge/-Teams-%236264A7)
+![Teams](https://img.shields.io/badge/Teams-%236264A7?logo=microsoftteams&logoColor=white)
 ![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)
 
 ## Languages and Tools 🔨
